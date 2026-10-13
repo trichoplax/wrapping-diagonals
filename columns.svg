@@ -1,0 +1,32 @@
+<svg
+  version="2"
+  width="3810"
+  height="810"
+  viewBox="0 0 3810 810"
+  xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <pattern id="grid" x="0" y="0" width="200" height="200" patternUnits="userSpaceOnUse">
+      <rect x="5" y="5" width="200" height="200" stroke="grey" stroke-width="10" fill="none" />
+    </pattern>
+  </defs>
+  <rect x="5" y="5" width="200" height="200" fill="black" />
+  <rect x="5" y="205" width="200" height="200" fill="black" />
+  <rect x="5" y="405" width="200" height="200" fill="black" />
+  <rect x="5" y="605" width="200" height="200" fill="black" />
+  <rect x="0" y="0" width="810" height="810" fill="url(#grid)" />
+  <rect x="1205" y="5" width="200" height="200" fill="black" />
+  <rect x="1205" y="205" width="200" height="200" fill="black" />
+  <rect x="1205" y="405" width="200" height="200" fill="black" />
+  <rect x="1205" y="605" width="200" height="200" fill="black" />
+  <rect x="1000" y="0" width="810" height="810" fill="url(#grid)" />
+  <rect x="2405" y="5" width="200" height="200" fill="black" />
+  <rect x="2405" y="205" width="200" height="200" fill="black" />
+  <rect x="2405" y="405" width="200" height="200" fill="black" />
+  <rect x="2405" y="605" width="200" height="200" fill="black" />
+  <rect x="2000" y="0" width="810" height="810" fill="url(#grid)" />
+  <rect x="3605" y="5" width="200" height="200" fill="black" />
+  <rect x="3605" y="205" width="200" height="200" fill="black" />
+  <rect x="3605" y="405" width="200" height="200" fill="black" />
+  <rect x="3605" y="605" width="200" height="200" fill="black" />
+  <rect x="3000" y="0" width="810" height="810" fill="url(#grid)" />
+</svg>
